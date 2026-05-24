@@ -1,7 +1,9 @@
 Autókölcsönző Rendszer - A feladat - IMMLBZ
 
 ###########################################
+
 Autókölcsönző rendszer Python nyelven
+
 ###########################################
 
 Funkciók:
@@ -11,6 +13,8 @@ Funkciók:
 - bérlések listázása
 - 
 ###########################################
+
 Videó link:
 https://www.youtube.com/watch?v=UVyVdfyAY74
+
 ###########################################
